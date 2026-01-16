@@ -1,0 +1,13 @@
+# Video Translator Dependencies
+
+# GUI - PyQt6 (shorter paths than PySide6)
+PyQt6>=6.4.0
+
+# Whisper speech recognition (lightweight)
+faster-whisper>=1.0.0
+
+# Free translation API
+deep-translator>=1.11.4
+
+# Build exe
+pyinstaller>=6.0.0
